@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aworkmeister
-- 👀 I’m interested in ... applying machine learning techniques to fuel predictive models
-- 🌱 I’m currently learning ... the essentials of data science: Python programming, exploratory data analysis, data modeling, and machine learning
-- 💞️ I’m looking to collaborate on ... building predictive models with large data sets to tell a compelling story to stakeholders
+- 👀 I’m interested in applying machine learning techniques to fuel predictive models 
+- 🌱 I’m currently practicing and applying data science skills: Python programming, exploratory data analysis, data modeling, and machine learning
+- 💞️ I’m looking to collaborate on predictive models with large data sets to gain insights from data
 - 📫 How to reach me ... abworkmeister@gmail.com
 
 <!---
